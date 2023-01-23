@@ -18,3 +18,10 @@
     flex: 1 1 0px;
     flex-direction: column;
 }
+
+.foo {
+    display: flex;
+    float: right;
+    font-size: small;
+    colour: cyan;
+}
